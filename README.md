@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rohang Shah  
 **Data Analyst | SQL | Python | Tableau | Power BI | AWS | Excel**  
 🎓 Master’s in Data Science @ Deakin University | 📍 Melbourne, Australia  
-💼 Visa: Subclass 485 (Full-time work rights)  
 
 ---
 
