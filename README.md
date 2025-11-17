@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFD700&height=180&section=header&text=Hey%20there!%20I'm%20Rohang%20👋&fontSize=35&fontColor=ffffff&animation=twinkling" />
 
 ### Hi there 👋  
-I'm **Rohang**, a Data Scientist passionate about transforming data into actionable insights and impactful stories.  
+I'm **Rohang**, a Data Analyst passionate about transforming data into actionable insights and impactful stories.  
 I’ve delivered projects across **climate analytics, biodiversity tracking, and sports performance**, and continue to explore data-driven solutions across **business, finance, sustainability, and public data** domains.  
 
 💼 Open to opportunities in **data analytics, business intelligence, and applied data science**  
