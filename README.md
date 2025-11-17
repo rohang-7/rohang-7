@@ -45,6 +45,7 @@ I’ve delivered projects across **climate analytics, biodiversity tracking, and
 | 🌍 [Climate Change Impact Simulation](https://github.com/rohang-7/Climate-Change-Impact-Simulation) | Real-time weather and climate analytics using OpenWeatherMap API and clustering models | Python, Pandas, DBSCAN |
 | 🐜 [Tracking Unique Insect Species](https://github.com/rohang-7/Tracking-unique-insect-species) | Biodiversity analysis and geospatial mapping using open datasets | GeoPandas, Matplotlib, Folium |
 | ⚽ [Premier League SQL Analysis 2023–24](https://github.com/rohang-7/premier-league-sql-analysis-2023-2024) | Comprehensive SQL analytics workflow with joins, CTEs, and ranking functions | MySQL, SQL |
+| 🛒 [Woolworths Grocery Price Trend Analysis](https://github.com/rohang-7/Woolworths-grocery-price-trend-eda) | Exploratory Data Analysis on daily Woolworths grocery prices (May–Nov 2025) | SQL, Python, Colab, Pandas, Matplotlib |
 | 📊 [Business Sales & Market Dashboard](#) | Interactive dashboard for tracking KPIs, trends, and regional performance | Power BI, Excel, DAX |
 | 💰 [Finance & Risk Analytics Portfolio](#) | Data-driven insights on asset performance and portfolio risk assessment | Python, Tableau, Pandas |
 
