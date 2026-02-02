@@ -5,6 +5,8 @@
 I'm **Rohang**, a Data Analyst passionate about transforming data into actionable insights and impactful stories.  
 I’ve delivered projects across **climate analytics, biodiversity tracking, and sports performance**, and continue to explore data-driven solutions across **business, finance, sustainability, and public data** domains.  
 
+I’m especially interested in roles where analytics supports strategy, operations, and performance tracking. Outside of work, I enjoy Melbourne’s café culture, training at the gym, and sketching in my drawing book. I’m passionate about sports and play cricket competitively at a local club, following football closely, and I support Chelsea (KTBFFH). I value quiet moments like catching the sunrise and spending evenings by the beach watching the sunset, which help me reset and think more clearly.
+
 💼 Open to opportunities in **data analytics, business intelligence, and applied data science**  
 🔍 Interested in solving problems through **data modeling, visualization, and automation**  
 🚀 Always learning, experimenting, and sharing insights through projects and open data exploration  
